@@ -1,3 +1,3 @@
 # Tinkering-tkinter
 
-run EqnSolver.exe in windows or  EqnSolver on linux
+run SrcCode/EqnSolver.exe in windows or  SrcCode/EqnSolver on linux
